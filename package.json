@@ -1,0 +1,11 @@
+{
+  "name": "capstone_design",
+  "version": "1.0.0",
+  "description": "스터디 그룹 매칭 서비스 (web)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "이예림",
+  "license": "ISC"
+}
