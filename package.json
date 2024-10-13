@@ -1,8 +1,8 @@
 {
-  "name": "capstone_design",
+  "name": "Study Hive",
   "version": "1.0.0",
   "description": "스터디 그룹 매칭 서비스 (web)",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
